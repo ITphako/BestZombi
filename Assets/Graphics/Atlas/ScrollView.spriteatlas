@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ScrollView
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 209b4338210e9594a943a44d046e31b4, type: 3}
+    - {fileID: 2800000, guid: 84b19208d08da42459608494768c024f, type: 3}
+    - {fileID: 2800000, guid: cc78cb338fe92c74b827f3fa750801d1, type: 3}
+    - {fileID: 2800000, guid: bbe7cd8a5fb331542876d42f26da1dd7, type: 3}
+    - {fileID: 2800000, guid: c6637c7c1df5d8f4b8b05d0a48507121, type: 3}
+    - {fileID: 2800000, guid: ea1270ca99dca324c97892a7dcbdb778, type: 3}
+    - {fileID: 2800000, guid: 74a26a132660dfc41b4c19e077642a2e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 74a26a132660dfc41b4c19e077642a2e: 21300000
+    - cc78cb338fe92c74b827f3fa750801d1: 21300000
+    - 84b19208d08da42459608494768c024f: 21300000
+    - 209b4338210e9594a943a44d046e31b4: 21300000
+    - bbe7cd8a5fb331542876d42f26da1dd7: 21300000
+    - ea1270ca99dca324c97892a7dcbdb778: 21300000
+    - c6637c7c1df5d8f4b8b05d0a48507121: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 74a26a132660dfc41b4c19e077642a2e, type: 3}
+  - {fileID: 21300000, guid: cc78cb338fe92c74b827f3fa750801d1, type: 3}
+  - {fileID: 21300000, guid: 84b19208d08da42459608494768c024f, type: 3}
+  - {fileID: 21300000, guid: 209b4338210e9594a943a44d046e31b4, type: 3}
+  - {fileID: 21300000, guid: bbe7cd8a5fb331542876d42f26da1dd7, type: 3}
+  - {fileID: 21300000, guid: ea1270ca99dca324c97892a7dcbdb778, type: 3}
+  - {fileID: 21300000, guid: c6637c7c1df5d8f4b8b05d0a48507121, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Screenshot_12
+  - Screenshot_5
+  - Screenshot_4
+  - Screenshot_3
+  - Screenshot_7 1
+  - Screenshot_10
+  - Screenshot_6
+  m_RenderDataMap: {}
+  m_Tag: ScrollView
+  m_IsVariant: 0
